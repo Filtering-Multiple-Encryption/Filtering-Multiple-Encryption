@@ -30,8 +30,8 @@ README.md   ── This file.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FilteringMultipleEncryption/FilteringMultipleEncryption.git
-   cd FilteringMultipleEncryption
+   git clone https://github.com/Filtering-Multiple-Encryption/Filtering-Multiple-Encryption.git
+   cd Filtering-Multiple-Encryption
    ```
 
 2. Place the following libraries in the `lib/` directory:
