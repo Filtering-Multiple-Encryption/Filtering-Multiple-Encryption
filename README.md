@@ -48,14 +48,14 @@ Each entry point has the following arguments:
 
 Therefore, we can run the FME protocol as follows:
 - FME protocol for categorical data (Section VI)
-```bash
-   java -cp "lib/*:bin" fme.CategoricalFME `DataConfig` `epsilon` `delta` `alpha` `beta` `topK` `encryption` `isLargeL` `seed`
-```
+   ```bash
+      java -cp "lib/*:bin" fme.CategoricalFME `DataConfig` `epsilon` `delta` `alpha` `beta` `topK` `encryption` `isLargeL` `seed`
+   ```
 
 - FME protocol for key-value data (Section VII)
-```bash
-   java -cp "lib/*:bin" fme.KeyValueFME `DataConfig` `epsilon` `delta` `alpha` `beta` `topK` `encryption` `isLargeL` `seed`
-```
+   ```bash
+      java -cp "lib/*:bin" fme.KeyValueFME `DataConfig` `epsilon` `delta` `alpha` `beta` `topK` `encryption` `isLargeL` `seed`
+   ```
 
 See ``Usage (2)`` for their examples.
 
