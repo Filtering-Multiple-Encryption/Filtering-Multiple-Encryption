@@ -1,6 +1,8 @@
 # FME (Filtering‑with‑Multiple‑Encryption) Protocol
 
-This source code is a Java implementation of the FME (Filtering‑with‑Multiple‑Encryption) protocol. 
+This source code is a Java implementation of the FME (Filtering‑with‑Multiple‑Encryption) protocol in the following paper: 
+
+Takao Murakami, Yuichi Sei, Reo Eriguchi, "Augmented Shuffle Differential Privacy Protocols for Large-Domain Categorical and Key-Value Data," NDSS 2026.
 
 ---
 
